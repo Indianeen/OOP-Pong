@@ -16,9 +16,9 @@ private Paddle p2;
     };
     private void checkCollision(){
         if (collision tak/golv){
-
+            y-led
         }else if (collision vägg){
-
+            x-led
         }
 
     };
