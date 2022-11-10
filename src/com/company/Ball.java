@@ -17,7 +17,12 @@ public class Ball {
         };
     };
     public void move (){
-
+        int x =+ vx;
+        int y =+ vy;
     };
+    public void bounce (Paddle p){
+        if (){
 
+        };
+    };
 }

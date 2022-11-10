@@ -11,7 +11,7 @@ public class Paddle {
     };
     public void moveUp(){
         if (x<2){
-            
+
         };
     };
     public void moveDown(){
