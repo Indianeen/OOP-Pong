@@ -21,7 +21,7 @@ public class Ball {
         int y =+ vy;
     };
     public void bounce (Paddle p){
-        if (){
+        if (tak/golv){
 
         };
     };

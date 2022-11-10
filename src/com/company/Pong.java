@@ -8,12 +8,18 @@ private Paddle p2;
 
     }
     public Pong (int width, int height){
-
+        width = 16;
+        height = 9;
     };
     public void update(){
 
     };
     private void checkCollision(){
+        if (collision tak/golv){
+
+        }else if (collision vägg){
+
+        }
 
     };
 }
